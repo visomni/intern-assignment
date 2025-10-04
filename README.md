@@ -29,6 +29,6 @@ Fork this repo and when done:
 
 ## We’ll look for:
 - Working pipeline.
-- Clarity and structure of your code.
+- Commit often, do not dump in one commit.
 - Your notes and thought process in README.
 - Bonus points for neatness and bonus features.
